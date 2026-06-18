@@ -21,6 +21,8 @@ Demonstrates SBOM generation with Syft and vulnerability scanning with Trivy aga
 - Trivy config scan against Kubernetes manifests
 - GitHub Actions workflow that fails a PR on CRITICAL/HIGH fixable findings
 
+## SC01 lab
+
 ## Disclaimer
 
 The Dockerfile and dependencies in this repo are **deliberately vulnerable** for educational purposes. Do not use in production.
